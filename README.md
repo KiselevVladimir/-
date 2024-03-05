@@ -5,7 +5,7 @@
 1. Убедитесь, что у вас установлен Java Development Kit (JDK) версии 8 или выше.
 2. Склонируйте репозиторий с помощью команд
 
-git clone https://github.com/KiselevVladimir/-.git
+git clone https://github.com/KiselevVladimir/-/tree/master
 
 ## Запуск
 
